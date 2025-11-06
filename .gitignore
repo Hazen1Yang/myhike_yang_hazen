@@ -3,7 +3,3 @@
 node_modules/
 .vscode/
 .env
-VITE_FIREBASE_API_KEY="AIzaSyAax-rL2gT-HVrn_9I0lmV_VaGzV27fGlw",
-VITE_FIREBASE_AUTH_DOMAIN="comp-demo-a3020.firebaseapp.com",
-VITE_FIREBASE_PROJECT_ID="comp-demo-a3020",
-VITE_FIREBASE_APP_ID="1:219470978485:web:0766e82b9eac508f094dfc"
